@@ -2,6 +2,9 @@
 
 AppForge helps you build full-stack web and mobile applications with a simple prompt. No coding required.
 
+-- create by Firecrawl MCP 
+
+prompt：I wanna build an app builder and i want to get some inspiration from bolt.new and lovable.dew. Please go to their websites, find inpiration and clone it here
 
 ## 🛠️ Getting Started
 
